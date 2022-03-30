@@ -1,0 +1,1 @@
+This is a practice project in Javascript that takes a number input and determines which grade it is, then displays it in an alert box.
